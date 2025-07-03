@@ -4,13 +4,13 @@ Weather App 🌤️
 A simple and clean Android weather application built using Kotlin, XML, and the OpenWeather API. The app provides real-time weather information like temperature, humidity, wind speed, and weather conditions for any city entered by the user.
 
 🛠️ Tech Stack
-Kotlin
+* Kotlin
 
-XML
+* XML
 
-OpenWeather API
+* OpenWeather API
 
-Android Studio
+* Android Studio
 
 ✨ Features
 ✅ Search for weather by city name
