@@ -1,9 +1,10 @@
 # Weather-App
+
+
 A simple Android weather application built using Kotlin, XML, and the OpenWeather API. It displays real-time weather information (temperature, humidity, wind speed, etc.) for any city. Designed and developed in Android Studio with a clean and user-friendly interface.
-Weather App 🌤️
-A simple and clean Android weather application built using Kotlin, XML, and the OpenWeather API. The app provides real-time weather information like temperature, humidity, wind speed, and weather conditions for any city entered by the user.
 
 🛠️ Tech Stack
+
 * Kotlin
 
 * XML
@@ -13,21 +14,34 @@ A simple and clean Android weather application built using Kotlin, XML, and the 
 * Android Studio
 
 ✨ Features
+
 ✅ Search for weather by city name
+
 ✅ Real-time temperature, humidity, wind speed
+
 ✅ User-friendly and minimal UI
+
 ✅ Error handling for invalid city names or network issues
 
 📸 Screenshots
-(Add your app screenshots here if available — simply drag them into the README on GitHub or link to them.)
+
+## 📸 Screenshots
+
+<img src="screenshot1.jpg" alt="Weather App Home" width="300"/>
+
+<img src="screenshot2.jpg" alt="Search Weather" width="300"/>
+
 
 🚀 Getting Started
+
 1️⃣ Clone the repository
 
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo-name.git
+
+git clone https://github.com/PawanKushwhaha/Weather-App
+
 2️⃣ Open the project in Android Studio
 
 3️⃣ Get your API key from OpenWeather
@@ -37,16 +51,21 @@ git clone https://github.com/your-username/your-repo-name.git
 5️⃣ Run the app on an emulator or a real device
 
 🔑 API
+
 This app uses the OpenWeatherMap API for fetching weather data.
+
 ➡ OpenWeather API Documentation
 
 📌 Requirements
+
 Android Studio (latest version recommended)
 
 Android device or emulator running API 21+
 
 🤝 Contributing
+
 Feel free to fork this repo and submit pull requests!
 
 📄 License
+
 This project is licensed under the MIT License.
