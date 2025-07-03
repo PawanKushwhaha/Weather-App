@@ -27,9 +27,9 @@ A simple Android weather application built using Kotlin, XML, and the OpenWeathe
 
 ## 📸 Screenshots
 
-<img src="screenshot1.jpg" alt="Weather App Home" width="300"/>
+<img src="screenshot2.jpg" alt="Weather App Home" width="300"/>
 
-<img src="screenshot2.jpg" alt="Search Weather" width="300"/>
+<img src="screenshot1.jpg" alt="Search Weather" width="300"/>
 
 
 🚀 Getting Started
